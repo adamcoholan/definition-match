@@ -13,7 +13,7 @@ Parochial&Narrowly restricted in scope or outlook
 Equivocal&Confusing or ambiguous
 Acrimony&Bitterness and ill will
 Parsimonious&Extremely frugal; miserly
-Frugal&Not spending much money (buut spending wisely)
+Frugal&Not spending much money (but spending wisely)
 Demur&To object or show reluctance
 Wanting&Lacking
 Innocuous&Harmless and doesn't produce any ill effects
@@ -22,7 +22,7 @@ Ambivalent&Mixed or conflicting emotions about something
 Upbraid&To reproach; to scold
 Prevaricate&To speak in an evasive way
 Amalgam&A mixture of multiple things
-Prodigal&Rashly or wastefully extravogent
+Prodigal&Rashly or wastefully extravagant
 Anomolous&Not normal
 Maintain&To assert
 Profligate&Adj: Spending resources recklessly or wastefully. Noun: Someone who spends resources recklessly or wastefully
