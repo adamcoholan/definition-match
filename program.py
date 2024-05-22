@@ -14,7 +14,7 @@ definitions = []
 
 fileName = 0
 
-files = ["Common1.txt", "Common2.txt", "Common3.txt"]
+files = ["Common1.txt", "Common2.txt", "Common3.txt", "Common4.txt", "Common5.txt", "Common6.txt"]
 
 while not isFileSelected:
     print()
