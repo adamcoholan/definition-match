@@ -14,7 +14,11 @@ definitions = []
 
 fileName = 0
 
-files = ["Common1.txt", "Common2.txt", "Common3.txt", "Common4.txt", "Common5.txt", "Common6.txt"]
+files = [
+    "Common1.txt", "Common2.txt", "Common3.txt", "Common4.txt", "Common5.txt", "Common6.txt",
+    "Basic1.txt", "Basic2.txt", "Basic3.txt", "Basic4.txt", "Basic5.txt", "Basic6.txt", "Basic7.txt",
+    "Advanced1.txt", "Advanced2.txt", "Advanced3.txt", "Advanced4.txt", "Advanced5.txt", "Advanced6.txt",
+    ]
 
 while not isFileSelected:
     print()
@@ -60,7 +64,6 @@ while len(remainingWords) > 0:
             choices.append(words[index])
             count += 1
 
-    
     random.shuffle(choices)
     cls()
     print()
@@ -95,6 +98,7 @@ while len(remainingWords) > 0:
 
     isGuessSelected = False
     _ = input("Press Enter to continue...")
+    choices = []
 
 print()
 print(Fore.GREEN, "Congratulations! Game over", Fore.RESET)
