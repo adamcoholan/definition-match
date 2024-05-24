@@ -14,7 +14,6 @@ definitions = []
 
 fileNumber = 0
 incorrectGuesses = 0
-overallScore = 50
 previousScores = []
 
 files = [
@@ -58,6 +57,7 @@ activeFile.close()
 
 correctAnswers = 0
 fullLengthList = len(words)
+overallScore = len(words)
 
 while len(remainingWords) > 0:
     randIndex = random.randrange(0, len(remainingWords))
@@ -118,7 +118,7 @@ while len(remainingWords) > 0:
 
 print()
 print("Congratulations!" + Fore.BLUE + " Game over", Fore.RESET)
-print("Overall score:", Fore.BLUE, str(overallScore), Fore.RESET)
+print("Overall score:", Fore.BLUE + str(overallScore) + Fore.RESET)
 
 currentScores = previousScores
 
