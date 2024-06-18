@@ -42,7 +42,7 @@ Precocious&Characterized by or characteristic of exceptionally early development
 Abstain&Choose not to consume or take part in (particularly something enjoyable)
 Apathy&An absence of emotion or enthusiasm
 Magnanimous&Noble and generous in spirit, especially towards a rival or someone less powerful
-Derive&Verb: Come from; be connected by a relationship of blood, for example. Verb: Readon by deduction; establish by deduction
+Derive&Verb: Come from; be connected by a relationship of blood, for example. Verb: Reason by deduction; establish by deduction
 Staunch&Firm and dependable especially in loyalty
 Refractory&Stubbornly resistant to authority or control
 Elucidate&Make clearer and easier to understand

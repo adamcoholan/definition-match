@@ -19,12 +19,13 @@ previousScores = []
 files = [
     "Common1.txt", "Common2.txt", "Common3.txt", "Common4.txt", "Common5.txt", "Common6.txt",
     "Basic1.txt", "Basic2.txt", "Basic3.txt", "Basic4.txt", "Basic5.txt", "Basic6.txt", "Basic7.txt",
-    "Advanced1.txt", "Advanced2.txt", "Advanced3.txt", "Advanced4.txt", "Advanced5.txt", "Advanced6.txt", "Advanced7.txt"
+    "Advanced1.txt", "Advanced2.txt", "Advanced3.txt", "Advanced4.txt", "Advanced5.txt", "Advanced6.txt", "Advanced7.txt",
+    "Additional1.txt", "Additional2.txt"
     ]
 
 scoreFile = open("PreviousScores.txt", "r")
 for line in scoreFile:
-    previousScores.append(int(line))
+    previousScores.append(line.replace('\n', ''))
 scoreFile.close()
 
 while not isFileSelected:
@@ -33,7 +34,20 @@ while not isFileSelected:
     print()
     for i in enumerate(files):
         listNum = i[0] + 1
-        print(str(listNum) + "." + Fore.BLUE, i[1], Fore.RESET)
+        splitStr = previousScores[i[0]].split('/')
+        if int(splitStr[1]) == 0:
+            print(str(listNum) + ".\t" + Fore.BLUE + i[1] + Fore.WHITE + "\tPrevious Score: " + Fore.RED + str(previousScores[i[0]]) + "\t(00.0%)" + Fore.RESET)
+        else:
+            percentage = int(splitStr[0]) / int(splitStr[1]) * 100
+            if percentage == 100.0:
+                print(str(listNum) + ".\t" + Fore.BLUE + i[1] + Fore.WHITE + "\tPrevious Score: " + Fore.GREEN + str(previousScores[i[0]]) + "\t(" + str(round(percentage, 1)) +  "%)" + Fore.RESET)
+            elif 90.0 <= percentage < 100.0:
+                print(str(listNum) + ".\t" + Fore.BLUE + i[1] + Fore.WHITE + "\tPrevious Score: " + Fore.YELLOW + str(previousScores[i[0]]) + "\t(" + str(round(percentage, 1)) +  "%)" + Fore.RESET)
+            elif 80.0 <= percentage < 90.0:
+                print(str(listNum) + ".\t" + Fore.BLUE + i[1] + Fore.WHITE + "\tPrevious Score: " + Fore.LIGHTRED_EX + str(previousScores[i[0]]) + "\t(" + str(round(percentage, 1)) +  "%)" + Fore.RESET)
+            
+            else:
+                print(str(listNum) + ".\t" + Fore.BLUE + i[1] + Fore.WHITE + "\tPrevious Score: " + Fore.RED + str(previousScores[i[0]]) + "\t(" + str(round(percentage, 1)) +  "%)" + Fore.RESET)
 
     print()
     fileNumber = input("Select a group to begin game: ")
@@ -76,8 +90,9 @@ while len(remainingWords) > 0:
             count += 1
 
     random.shuffle(choices)
-    # cls()
+    cls()
     print()
+    print("Level:" + Fore.BLUE, str(files[int(fileNumber) - 1].replace('.txt', '') + Fore.RESET))
     print("Previous Score:" + Fore.BLUE, str(previousScores[int(fileNumber) - 1]), Fore.RESET)
     print("Incorrect Guesses:" + Fore.BLUE, str(incorrectGuesses), Fore.RESET)
     print("Correct Guesses:" + Fore.BLUE, str(correctAnswers) + "/" + str(fullLengthList), Fore.RESET)
@@ -118,11 +133,11 @@ while len(remainingWords) > 0:
 
 print()
 print("Congratulations!" + Fore.BLUE + " Game over", Fore.RESET)
-print("Overall score:", Fore.BLUE + str(overallScore) + Fore.RESET)
+print("Overall score:", Fore.BLUE + str(overallScore) + "/" + str(fullLengthList) + Fore.RESET)
 
 currentScores = previousScores
 
-currentScores[int(fileNumber) - 1] = overallScore
+currentScores[int(fileNumber) - 1] = str(overallScore) + "/" + str(fullLengthList)
 
 scoresFile = open("PreviousScores.txt", "w")
 for score in currentScores:

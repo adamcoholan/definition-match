@@ -3,7 +3,7 @@ Wanton&Without check or limitation; showing no moral restraint to one's anger, d
 Precarious&Fraught with danger
 Ascribe&Attribute or credit to
 Consecrate&To make holy or set apart for a high purpose
-Presumptuous&Eexcessively forward
+Presumptuous&Excessively forward
 Preempt&Take the place of or have precedence over
 Cavalier&Given to haughty disregard of others
 Coalesce&Fuse or cause to grow together
@@ -27,9 +27,9 @@ Avert&Verb: Turn away. Verb: Ward off or prevent
 Finagle&Achieve something by means of trickery or devious methods
 Forthright&Characterized by directness in manner or speech; without subtlety or evasion
 Tribulation&Something, especially an event, that causes difficulty and suffering
-Humdrum&Dyll and lacking excitement
+Humdrum&Dull and lacking excitement
 Implicate&Verb: Convey a meaning; imply. Verb: To indicate in wrongdoing; usually a crime
-Docile&Easily handled or managedl willing to be taught or lead or supervised or directed
+Docile&Easily handled or managed; willing to be taught or lead or supervised or directed
 Industrious&Characterized by hard work and perseverance
 Foolhardy&Marked by defiant disregard for danger or consequences
 Buttress&Make stronger or defensible

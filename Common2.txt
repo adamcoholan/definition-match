@@ -2,7 +2,7 @@ Impudent&Improperly forward or bold
 Platitude&A trite or obvious remark
 Cryptic&Mysterious or vague, usually intentionally
 Apathetic&Marked by a lack of interest
-Eschew&Avoid and stay away from being deliberately; stay clear of
+Eschew&Deliberately avoid using; stay away from
 Meticulous&Marked by extreme care in treatment of details
 Gainsay&Deny or contradict; speak against or oppose
 Querulous&Habitually complaining
@@ -28,7 +28,7 @@ Lambast&Critize severely or angrily
 Chortle&To chuckle, laugh merrily, often in a breathy, muffled way
 Preclude&Keep from happening or arising; make impossible
 Rustic&Characteristic of rural life; awkwardly simple and provincial
-Aesthetic&Adj: Concerned with the appreciation of beauty. Noun: A set of principles underlying andn guiding the work of a particular artist or artistic movement
+Aesthetic&Adj: Concerned with the appreciation of beauty. Noun: A set of principles underlying and guiding the work of a particular artist or artistic movement
 Obscure&Verb: Make unclear. Adj: Known by only a few
 Dogmatic&Highly opinionated, not accepting that one's own beliefs may be incorrect
 Bucolic&Relating to the pleasant aspects of the country
@@ -37,7 +37,7 @@ Audacious&Willing to be bold in social situation or to take risks
 Concede&Acknowledge defeat; admit to wrong doing; surrender or relinquish to the physical control of another
 Glut&Noun: An excessive supply. Verb: Supply with an excess of
 Reticent&Disinclined to talk, not revealing one's thoughts
-Engender&Give rise to
+Engender&Cause or give rise to (a feeling, situation, or condition)
 Perfidy&An act of deliberate betrayal; a breach of trust
 Germane&Relevant and appropriate
 Inexorable&Impossible to stop or prevent

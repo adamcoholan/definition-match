@@ -2,7 +2,7 @@ Inequity&Injustice by virtue of not conforming with rules or standards
 Impugn&Attack as false or wrong
 Desideratum&Something desired as a necessity
 Complaisant&Showing a cheerful willingness to do favours for others
-Gumption&Resourcefullness and determination
+Gumption&Resourcefulness and determination
 Conflate&Mix together different elements or concepts
 Doughty&Brave; bold; courageous
 Aplomb&Great coolness and composure under strain
@@ -10,20 +10,20 @@ Stultify&Cause one, through routine, to lose energy and enthusiasm
 Mendicant&A pauper who lives by begging
 Abjure&Formally reject or give up (as a belief)
 Impervious&Not admitting of passage or capable of being affected
-Ethereal&Characterized by lightness and insubstantiality
+Ethereal&Characterized by lightness and insubstantiality; extremely delicate and light in a way that seems too perfect for this world.
 Unassailable&Immune to attack; without flaws
-Elegiac&Expressing sorrow
+Elegiac&Expressing sorrow, lament for the dead
 Bridle&Verb: The act of restraining power or action or limiting excess. Verb: To react with anger or to take offense
 Panegyric&A formal expression of praise
 Proselytize&Convert (someone) to another religion, philosophy, or perspective
 Facile&Arrived at without due care or effort; lacking depth
 Self-Effacing&Reluctance to draw attention to yourself
 Bromide&A trite or obvious remark
-Fecund&Intellectually productive
+Fecund&Very productive or creative intellectually; producing or capable of producing an abundance of offspring or new growth
 Discursive&(Of, for example, speech and writing) tending to depart from the main point
 Appropriate&Verb: To give or take something by force. Verb: To allocate
-Internecine&(Of conflict) within a group or organization
-Proscribe&Command against
+Internecine&(Of conflict) within a group or organization; destructive to both sides
+Proscribe&Command against; outlaw
 Pellucid&Transparantly clear; easily understandable
 Solicitude&Showing hovering attentiveness
 Tyro&Someone new to a field or activity
@@ -45,5 +45,5 @@ Palatable&Acceptable to the taste or mind
 Pontificate&Talk in dogmatic and pompous approach
 Assiduously&With care and persistence
 Afford&Provide with an opportunity
-Autocratic&Adj: Characteristic of an absolute ruler or absolute tule; having absolute sovereignty. Adj: Offensively self-assured or given to exercising usually unwarranted power
+Autocratic&Adj: Characteristic of an absolute ruler or absolute rule; having absolute sovereignty. Adj: Offensively self-assured or given to exercising usually unwarranted power
 Turgid&(Of language) pompous and tedious

@@ -8,15 +8,15 @@ Quail&Draw back, as with fear or pain
 Recapitulation&A summary (recap)
 Pecuniary&Relating to or involving money
 Litany&Any long and tedious account of something
-Portentous&Ominiously prophetic
+Portentous&Ominiously prophetic; of or like a portent (a sign or warning that something, especially something momentous or calamitous, is likely to happen)
 Effrontery&Audacious (even arrogant) behaviour that you have no right to
 Flummox&To be a mystery or bewildering to
 Umbrage&A feeling of anger caused by being offended
 Sinecure&An office that involves minimal duties
 Lugubrious&Excessively mournful
-Perspicacious&Acutely insightful and wise
+Perspicacious&Acutely insightful and wise; having a ready insight into and understanding of things
 Moribund&Being on the point of death; declining rapidly, losing all momentum in progress
-Grandiloquent&Puffed up with vanity
+Grandiloquent&Puffed up with vanity; pompous or extravagant in language, style, or manner, especially in a way that is intended to impress
 Unforthcoming&Uncooperative, not willing to give up information
 Raconteur&A person skilled in telling anecdotes
 Anemic&Lacking energy and vigor
@@ -26,7 +26,7 @@ Lampoon&Ridicule with satire
 Enjoin&Give instructions to or direct somebody to do something with authority
 Prognostication&A statement made about the future
 Gaffe&A socially awkward and tactless act
-Prolixity&Boring verbosity
+Prolixity&Boring verbosity; the fact of using too many words and therefore being boring or difficult to read or listen to
 Impute&Attribute (responsibility or fault) to something
 Vitriolic&Harsh or corrosive in tone
 Duplicity&Deceitfulness, pretending to want one thing but interested in something else
@@ -39,7 +39,7 @@ Probity&Integrity, strong moral principles
 Enthrall&Hold spellbound
 Illustrious&Widely known and esteemed; having or conferring glory
 Plucky&Marked by courage and determination
-Insouciance&Lack of concern
+Insouciance&Lack of concern; indifference
 Artlessness&The quality of innocence
 Maunder&Verb: Wander aimlessly. Verb: Speak (about unimportant matters) rapidly and incessantly
 Bowdlerize&Edit by omitting or modifying parts considered indelicate

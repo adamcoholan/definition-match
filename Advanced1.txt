@@ -3,7 +3,7 @@ Apogee&The highest point
 Arrant&Complete and wholly (usually modifying a noun with negative connotation)
 Hector&To bully or intimidate
 Conciliate&To make peace with
-Untoward&Unfavourable; inconvenient
+Untoward&Unfavourable; unexpected and inconvenient
 Chary&Cautious, suspiciously reluctant to do something
 Byzantine&Intricate and complex
 Prosaic&Dull and lacking imagination
@@ -14,7 +14,7 @@ Contentious&Likely to argue
 Expansive&Communicative, and prone to talking in a sociable manner
 Anathema&A detested person; the source of somebody's hate
 Insufferable&Intolerable, difficult to endure
-Alacrity&An eager willingness to do something
+Alacrity&An eager willingness to do something; brisk and cheerful readiness
 Churlish&Lacking manners or refinement
 Base&The lowest, without any moral principle
 Expunge&To eliminate completely
@@ -26,7 +26,7 @@ Exegesis&Critical explanation or analysis, especially of a text
 Kowtow&To bow or act in a subservient manner
 Defray&To help pay the cost of, either in part or in full
 Diatribe&A strong verbal attack against a person or institution
-Turpitude&Depravity; a depraved act
+Turpitude&Depravity; a depraved act; an act of moral corruption
 Penurious&Adj: Lacking money; poor. Adj: Miserly
 Perfunctory&Done routinely and with little interest or care
 Beg&Assume something is true (usually followed by "the question", meaning that you ask a quuestion in which you assume something that hasn't been proven true)
@@ -37,7 +37,7 @@ Pariah&An outcast
 Imbibe&To drink or absorb as if drinking
 Vicissitude&Change in one's circumstances, usually for the worse
 Malfeasance&Misconduct or wrongdoing (especially by a public official)
-Overweening&Arrogant; presumptuous
+Overweening&Arrogant; presumptuous; showing excessive confidence or pride
 Lascivious&Lecherous; sexually perverted
 Sedulous&Done diligently and carefully
 Truculent&Having a fierce, savage nature
@@ -47,4 +47,4 @@ Jingoist&A person who thinks their country is always right and is in favour of a
 Zeitgeist&Spirit of the times
 Nadir&The lowest point
 Choleric&Prone to outbursts of temper; easily angered
-Ponderous&Weighed-down; moving slowly
+Ponderous&Weighed-down; moving slowly; of great weight; awkward or unwieldy

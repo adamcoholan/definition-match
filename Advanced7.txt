@@ -12,17 +12,17 @@ Flag&Drop, sink, or settle from or as if from pressure or lack of tautness; beco
 Trenchant&Characterized by or full of force and vigor; having keenness and forcefulness and penetration in thought, expression or intellect
 Estimable&Deserving of esteem and respect
 Oblique&Not straightforward, indirect
-Infelicitous&Inappropriate
+Infelicitous&Not appropriate or well-timed; awkward
 Raillery&Light teasing
 Adjudicate&To serve as a judge in a competition; to arrive at a judgement or conclusion
 Loath&Unwilling to do something contrary to your custom (usually followed by "to")
 Dissipate&Verb: Squander or spend money frivalously. Verb: To disperse or scatter
-Eponym&The name derived from a person (real or imaginary); the perrson for whom something is named
+Eponym&The name derived from a person (real or imaginary); the person for whom something is named
 Diminutive&Noun: To indicate smallness. Adj: Very small
 Verisimilitude&The appearance of truth
-Promulgate&State or announce
+Promulgate&Promote or make widely known (an idea or cause); state or announce
 Bastardization&An act that debases or corrupts
-Dissolution&A living full of debauchery and indulgence in sensual pleasure
+Dissolution&A living full of debauchery and indulgence in sensual pleasure; the closing down or dismissal of an assembly, partnership, or official body.
 Despot&A cruel and oppressive dictator
 Chauvinism&Fanatical patriotism; belief that one's group/cause is superior to all other groups/causes
 Modicum&A small or moderate or token amount
@@ -35,11 +35,11 @@ Bereft&Adj: Unhappy in love; suffering from unrequited love. Adj: Sorrowful thro
 Graft&Corruption; usually through bribery
 Sardonic&Disdainfully or ironically humorous; scornful and mocking
 Evanescent&Tending to vanish like vapour
-Palaver&Speak (about  unimportant matters) rapidly and incessantly
+Palaver&Speak (about unimportant matters) rapidly and incessantly
 Exiguity&The quality of being meager
 Halcyon&Idyllically calm and peaceful; suggesting happy tranquility; marked by peace and prosperity
 Cataclysm&An event resulting in great loss and misfortune
-Canard&A deliverately misleading fabrication
+Canard&A deliberately misleading fabrication
 Dissemble&Conceal one's true motives, usually through deceit
 Lachrymose&Tearful or something that induces tears; showing strong sorrow
 Countermand&A contrary command cancelling or reversing a previous command

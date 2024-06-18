@@ -1,4 +1,4 @@
-Recrudesce&To break out or happen again
+Recrudesce&To break out or happen again; recur
 Vitriol&Abusive or venomous language used to express blame or bitter deep-seated ill-will
 Broadside&A strong verbal attack
 Effervescent&Marked by high spirits or excitement
@@ -10,12 +10,12 @@ Anachronism&Something that is inappropriate for the given time period (usually s
 Hoary&Ancient
 Apothegm&A short, pithy instructive saying
 Reprisal&A retalitory action against an enemy in wartime
-Arrogate&Seize and control without authority
+Arrogate&Seize and control without authority; take or claim (something) without justification
 Percipient&Highly perceptive
 Brook&Put up with something or somebody unpleasant
 Chagrin&Noun: Strong feelings of embarrassment. Verb: Cause to feel shame; hurt the pride of
 Squelch&Suppress or crush completely
-Inchoate&Only partly in existence; imperfectly formed
+Inchoate&Only partly in existence; imperfectly formed (rudimentary)
 Ineffable&Too sacred to be uttered; defying expression or description
 Baleful&Threatening or foreshadowing evil or tragic developments
 Bristle&React in an offended or angry manner
@@ -26,7 +26,7 @@ Empiricism&Any method that derives knowledge from experience, used in experiment
 Deign&Do something that someone considers to be below one's dignity
 Besotted&Adj: Strongly affectionate towards. Adj: Very drunk
 Untrammeled&Not confined or limited
-Truculence&Defiant aggressiveness
+Truculence&Defiant aggressiveness; the quality or attitude of being aggressively hostile; belligerence
 Unstinting&Very generous
 Inanity&Total lack of meaning or ideas
 Pith&The most essential part of something
@@ -40,11 +40,11 @@ Epigram&A witty saying
 Doleful&Filled with or evoking sadness
 Debonair&Having a sophisticated charm
 Objurgate&Express strong disapproval of
-Raapproachment&The reestablishing of cordial relations
-Solicitude&A feeling of excessive concern
+Rapproachment&The reestablishing of cordial relations
+Solicitude&A feeling of excessive concern; care or concern for someone or something
 Browbeat&Be bossy towards; discourage or frighten with threats of a domineering manner
 Languish&Become feeble
 Atavism&A reappearance of an earlier characteristic; throwback
 Antic&Ludicrously odd
 Gambit&A maneuver or risk in a game or conversation, designed to secure an advantage
-Phlegmatic&Showing little emotion
+Phlegmatic&Showing little emotion; (of a person) having an unemotional and stolidly calm disposition

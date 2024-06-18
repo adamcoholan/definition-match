@@ -46,5 +46,5 @@ Soporific&Inducing mental lethargy; sleep inducing
 Largess&Extreme generosity and giving
 Ignoble&Dishonorable
 Incorrigble&Impervious to correction by punishment
-Idiosyncrasy&A behavioural attribute that s distinctive and peculiar to an individual
+Idiosyncrasy&A behavioural attribute that is distinctive and peculiar to an individual
 Provincial&Characteristic of a limited perspective; not fashionable or sophisticated
