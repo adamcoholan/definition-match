@@ -6,7 +6,7 @@ Incongruous&Lacking in harmony or compatibility or appropriateness
 Jubilant&Full of high-spirited delight because of triumph or success
 Delineate&Describe in detail
 Negligible&So small as to be meaningless; insignificant
-Fallcious&Of a belief that is based on faulty reasoning
+Fallacious&Of a belief that is based on faulty reasoning
 Treacherous&Adj: Tending to betray. Adj: Dangerously unstable and unpredictable
 Derivative&Not original but drawing strongly on something already in existence, especially in reference to a creative product
 Eminent&Standing above others in quality or position

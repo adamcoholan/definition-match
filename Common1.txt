@@ -1,50 +1,50 @@
-Iconoclast&Somebody who attacks the cherished beliefs or institutions
-Betray&To reveal or make known something, usually unintentionally
-Vindicate&To clear of accusation, blame, suspicion, or doubt with supporting arguments or proof
-Ingenuous&To be naive and innocent
-Censure&To express strong disapproval
-Laconic&(Describes a person, speech, or style of writing) using very few words
-Intimate&To suggest something subtly
-Impertinent&Being disrespectful; improperly forward or bold
-Auspicious&Favourable, the opposite of sinister
-Restive&Restless
-Disinterested&Unbiased, neutral
-Parochial&Narrowly restricted in scope or outlook
-Equivocal&Confusing or ambiguous
-Acrimony&Bitterness and ill will
-Parsimonious&Extremely frugal; miserly
-Frugal&Not spending much money (but spending wisely)
-Demur&To object or show reluctance
-Wanting&Lacking
-Innocuous&Harmless and doesn't produce any ill effects
-Gregarious&To be likely to socialize with others
-Ambivalent&Mixed or conflicting emotions about something; being unable to choose between two (usually opposing) courses of action
-Upbraid&To reproach; to scold
-Prevaricate&To speak in an evasive way
-Amalgam&A mixture of multiple things
-Prodigal&Rashly or wastefully extravagant
-Anomolous&Not normal
-Maintain&To assert
-Profligate&Adj: Spending resources recklessly or wastefully. Noun: Someone who spends resources recklessly or wastefully
-Venality&The condition of being susceptible to bribes or corruption
-Belie&To give a false representation to; misrepresent
-Involved&Complicated, and difficult to comprehend
-Enervate&To sap energy from
-Harangue&Noun: A long and pompous speech; a tirade. Verb: To deliver a long and pompous speech or tirade
-Amenable&Easily persuaded
-Extant&Still in existence (usually refers to documents)
-Undermine&To weaken (usually paired with an abstract term)
-Artful&Adj: Exhibiting artistic skill. Adj: Clever in a cunning way
-Castigate&To reprimand harshly
-Mercurial&(of a person) prone to unexpected and unpredictable changes in mood
-Ambiguous&Open to more than one interpretation
-Aberration&A deviation from what is normal or expected
-Galvanize&To excite or inspire (someone) to action
-Calumny&Making of a false statement meant to injure a person's reputation
-Egregious&Standing out in a negative way; shockingly bad
-Commensurate&To be in proportion or corresponding in degree or amount
-Venerate&To respect deeply
-Qualify&To make less severe; to limit (a statement)
-Veracious&Truthful
-Chastise&To reprimand harshly
-Amorphous&Shapeless
+Iconoclast&Somebody who attacks the cherished beliefs or institutions of an individual or group%
+Betray&To reveal or make known something, usually unintentionally%
+Vindicate&To clear of accusation, blame, suspicion, or doubt with supporting arguments or proof%
+Ingenuous&To be naive and innocent%Her ingenuous nature was a lovely trait, but exposed her to the fact that people prey on innocence and naivety.
+Censure&To express strong disapproval%The idea to get a tattoo came with great censure from his mother, as she thought they looked terrible.
+Laconic&(Describes a person, speech, or style of writing) using very few words%Matt's laconic nature in dialogue offer people the assumption that he is unfriendly and short, but he just values concision over droning on.
+Intimate&To suggest something subtly%Carl intimated to his brother, as to not embarrass him in front of his friends, that he shower more than 3 times a week.
+Impertinent&Being disrespectful; improperly forward or bold%The impertinent question asked by the man was highly insulting to Chase, and was left unanswered.
+Auspicious&Favourable, the opposite of sinister%With just 170 yards into the green remaining on his second shot of the par 5 and no wind to content with, Tiger Woods has auspicious odds of making an eagle.
+Restive&Restless%The nerves of working in the morning made it a very restive Sunday night for Jim.
+Disinterested&Unbiased, neutral%The juror was perfectly disinterested in the high-profile case as they had no prior knowledge of the defendants terrible past.
+Parochial&Narrowly restricted in scope or outlook%The churches stance on marriage is very parochial - ignoring the legitimacy of same-sex marriage.
+Equivocal&Confusing or ambiguous%His speech was equivocal - leaving out large bits of important information and offering vague promises.
+Acrimony&Bitterness and ill will%The decision to end their business relationship was amiable, and without acrimony or anger.
+Parsimonious&Extremely frugal; miserly%After winning $10,000, the regularly parsimonious Bill bought drinks for everyone in the bar.
+Frugal&Not spending much money (but spending wisely)%
+Demur&To object or show reluctance%To our pleasant surprise, our drunk friend handed over their car keys without demur, and agreed to Uber home.
+Wanting&Lacking%My short game has no real issues, but my driving is certainly wanting in results.
+Innocuous&Harmless and doesn't produce any ill effects%Though the large puffs from the smoke stack looked like dangerous pollution, it was just innocuous clouds of water vapour.
+Gregarious&To be likely to socialize with others%Jay was a gregarious man who always had a joke to end any conversation.
+Ambivalent&Mixed or conflicting emotions about something; being unable to choose between two (usually opposing) courses of action%
+Upbraid&To reproach; to scold%I was lucky to not be upbraided by management when I brought the entire production server down for 3 hours.
+Prevaricate&To speak in an evasive way%Not wanting to give away too much information, the athlete prevaricated when asked very directly about the extent of their injury.
+Amalgam&A mixture of multiple things%Canada is often referred to as a cultural melting pot - an amalgam of different cultures sharing a common country to call home.
+Prodigal&Rashly or wastefully extravagant%The prodigal daughter used a new tooth brush every single day for no particular reason.
+Anomalous&Not normal%The kid was always a little bit anomalous, hating dessert but loving vegetables.
+Maintain&To assert%
+Profligate&Adj: Spending resources recklessly or wastefully. Noun: Someone who spends resources recklessly or wastefully%The profligate family all took 40 minute showers a day, and consumed more energy than the rest of their neighbourhood combined.
+Venality&The condition of being susceptible to bribes or corruption%The police in South America during the cartel rule displayed intense venality, always willing to compromise their duty to protect citizens in favour of gifts from the cartel members.
+Belie&To give a false representation to; misrepresent%The Lamborghini and mansion belie the dudes brokeness.
+Involved&Complicated, and difficult to comprehend%
+Enervate&To sap energy from%This studying is enervating - often times making me too tired to do anything else productive.
+Harangue&Noun: A long and pompous speech; a tirade. Verb: To deliver a long and pompous speech or tirade%No one cared to listen to Bob's harangue. They instead wished for a concise, more subtle speech.
+Amenable&Easily persuaded%The power of social media has manipulated ammenable children into believing untrue "facts".
+Extant&Still in existence (usually refers to documents)%The copy of the hand-written book remained extant despite the harsh conditions it was stored in.
+Undermine&To weaken (usually paired with an abstract term)%
+Artful&Adj: Exhibiting artistic skill. Adj: Clever in a cunning way%The artful politician was able to maneuver his way through the tough line of questioning.
+Castigate&To reprimand harshly%Ben was castigated for breaking his mother's treasured vase. The nature of such castigation being a 3 week grounding.
+Mercurial&(of a person) prone to unexpected and unpredictable changes in mood%
+Ambiguous&Open to more than one interpretation%
+Aberration&A deviation from what is normal or expected%Given the fact that 90% of Air Canada flights do not depart on time, one that does is considered an aberration.
+Galvanize&To excite or inspire (someone) to action%The citizens of the invaded country galvanized to push back the invaders.
+Calumny&Making of a false statement meant to injure a person's reputation%Despite the slander and calumny used to villainize the defendant, he continually pleaded his innocence, and was eventually vindicated.
+Egregious&Standing out in a negative way; shockingly bad%The decision to paint the external of the house pink was an egregious mistake.
+Commensurate&To be in proportion or corresponding in degree or amount%Punishment should always be  commensurate to the crime committed. Someone found guilty of stealing should not face more time than a murderer.
+Venerate&To respect deeply%The American population venerates their military for the sacrifice they make in protecting their homeland.
+Qualify&To make less severe; to limit (a statement)%
+Veracious&Truthful%Though the story seemed too crazy to be true, the facts proved it veracious.
+Chastise&To reprimand harshly%The father chastised his daughter when she confessed to him that she was a Canadiens fan.
+Amorphous&Shapeless%Water is amorphous - fitting into any container you can fill it with.
